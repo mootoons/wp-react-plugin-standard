@@ -2,7 +2,7 @@
 
 ปลั๊กอินเริ่มต้นสำหรับ React ซึ่งมี Packages WP-script, React, ReactRouter, Eslint, Prettier, i18n
 
-สำหรับ javascript [WP React Typescript Plugin Standard](https://github.com/mootoons/wp-react-typescript-plugin-standard)
+สำหรับ React Typescript [WP React Typescript Plugin Standard](https://github.com/mootoons/wp-react-typescript-plugin-standard)
 
 ---
 
