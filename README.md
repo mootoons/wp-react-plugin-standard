@@ -52,6 +52,12 @@ yarn build
 - MyApp คือ namespace หรือ class name
 - MY_APP\_ คือ constants ต่างๆ ที่ใช้ในปลั๊กอิน
 
+หากแก้ไขในส่วนของ folder app เรียบร้อยแล้วให้รันคำสั่ง
+
+```sh
+composer install && composer dumpautoload -o
+```
+
 ### ตัวอย่าง
 
 ![MyApp-‹-Wordpress-Tester-—-WordPress](https://user-images.githubusercontent.com/11506169/179348473-4369d12e-e534-4642-a3a7-8d817220d6eb.jpg)
