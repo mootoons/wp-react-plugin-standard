@@ -58,6 +58,23 @@ yarn build
 composer install && composer dumpautoload -o
 ```
 
+ในส่วนของ php จะใช้ Method onHooks สำหรับใช้เรียกงานอัตโนมัติ
+
+### ตัวอย่าง
+```php
+class Example
+{
+    public function onHooks(): void
+    {
+        add_action('init', [$this, 'tester']);
+    }
+    
+    public function tester(): void {
+        var_dump('Hello Tester');
+    }
+}
+```
+
 ### ตัวอย่าง
 
 ![MyApp-‹-Wordpress-Tester-—-WordPress](https://user-images.githubusercontent.com/11506169/179348473-4369d12e-e534-4642-a3a7-8d817220d6eb.jpg)
