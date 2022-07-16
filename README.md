@@ -60,7 +60,7 @@ composer install && composer dumpautoload -o
 
 ในส่วนของ php จะใช้ Method onHooks ในการเรียกใช้งานอัตโนมัติ
 
-### ตัวอย่าง
+### ตัวอย่างโค้ด
 ```php
 class Example
 {
