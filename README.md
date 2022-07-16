@@ -48,9 +48,9 @@ yarn build
 
 ### Folder app / search and replace
 
-- 'my-app' คือ text-domain และ filter key
+- my-app คือ text-domain และ filter key
 - MyApp คือ namespace หรือ class name
-- MY*APP* คือ constants ต่างๆ ที่ใช้ในปลั๊กอิน
+- MY_APP\_ คือ constants ต่างๆ ที่ใช้ในปลั๊กอิน
 
 ### ตัวอย่าง
 
