@@ -1,9 +1,9 @@
 <?php
 
 /**
- * MooToonStarter plugin for WordPress
+ * MyApp plugin for WordPress
  *
- * @package   MooToonStarter
+ * @package   MyApp
  * @link      https://github.com/mootoons/wp-react-plugin-standard
  * @author    MooToon <support@mootoons.com>
  * @license   GPL v2 or later
