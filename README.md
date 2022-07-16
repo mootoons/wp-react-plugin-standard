@@ -58,7 +58,7 @@ yarn build
 composer install && composer dumpautoload -o
 ```
 
-ในส่วนของ php จะใช้ Method onHooks สำหรับใช้เรียกงานอัตโนมัติ
+ในส่วนของ php จะใช้ Method onHooks ในการเรียกใช้งานอัตโนมัติ
 
 ### ตัวอย่าง
 ```php
